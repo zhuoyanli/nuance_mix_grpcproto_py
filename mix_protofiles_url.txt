@@ -1,0 +1,6 @@
+https://docs.mix.nuance.com/downloads/asraas-doc/v1/nuance_asr_rpc_protos.zip
+https://docs.mix.nuance.com/downloads/asraas-doc/v1/nuance_training_rpc_protos.zip
+https://docs.mix.nuance.com/downloads/nlu-grpc/v1/nuance_nlu_runtime_protos_v1.zip
+https://docs.mix.nuance.com/downloads/nlu-grpc/v1/nuance_nlu_wordset_protos_v1.zip
+https://docs.mix.nuance.com/downloads/dialog-grpc/v1/nuance_dialog_dialogservice_protos_v1.zip
+https://docs.mix.nuance.com/downloads/ttsaas-doc/v1/nuance_tts_and_storage_protos.zip

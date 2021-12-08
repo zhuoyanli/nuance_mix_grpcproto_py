@@ -1,2 +1,3 @@
-# nuance_mix_grpcproto_py
-Project to semi-supervisedly build Python binding for gRPC protobuf stubs of Nuance Mix
+1. run gen_mix_saas_pystub.sh
+2. find installation wheel file in 'dist' dir
+

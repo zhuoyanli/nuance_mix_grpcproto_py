@@ -1,0 +1,19 @@
+image: python:3.7-slim
+
+before_script:
+  - python -m pip install setuptools grpcio-tools wheel
+  - apt-get update
+  - apt-get install -y wget unzip
+
+stages:
+  - build
+
+build_mix_grpc_proto_py_stub:
+  stage: build
+  script:
+  - bash ./gen_mix_saas_pystub.sh
+  only:
+  - master
+  artifacts:
+    paths:
+    - dist/*.whl
